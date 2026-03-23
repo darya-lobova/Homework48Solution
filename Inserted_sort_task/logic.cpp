@@ -23,7 +23,7 @@ void init_user(int array[], int length) {
 
 void sort_insertion(int array[], int length)
 {
-	for (int i = 1; i < length; ++i) {
+	for (int i = 1; i < length; i++) {
 		int key = array[i];
 		int j = i - 1;
 
