@@ -1,6 +1,8 @@
 //Worst case: O(N^2)
 //Best case: O(N)
 
+//In best cases is better then selected sort
+
 #include "logic.h"
 
 int main() {
