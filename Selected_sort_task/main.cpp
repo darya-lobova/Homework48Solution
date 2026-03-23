@@ -1,3 +1,6 @@
+//Worst case: O(N^2)
+//Best case: O(N^2)
+
 #include "logic.h"
 
 int main() {
